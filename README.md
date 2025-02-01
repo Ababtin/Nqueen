@@ -23,3 +23,16 @@ This Java program **solves the N-Queens problem** using **backtracking**. It fin
    - If no valid position is available, **backtracks** to try another configuration.
 4. **Prints all valid solutions** or `"Solution not found!"` if no solution exists.
 
+## Dependencies
+- **JDK 8 or later (for Java execution)**
+- **Java Scanner (for input handling)**
+- **Basic knowledge of backtracking (recommended)**
+
+## Applications
+This program is useful in various domains, including:
+
+- **Artificial Intelligence & Game Theory**
+- **Constraint Solving**
+- **Chess Programming**
+- **Combinatorial Optimization Problems**
+- **Algorithmic Problem Solving (Competitive Programming)**
